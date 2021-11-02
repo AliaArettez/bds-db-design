@@ -1,4 +1,4 @@
 # bds-db-design
 
-Navrh na tvprnu databáze pro dovážkovou službu
-autoři: Valentýna Sadecká, Květoslav Reinhard
+Navrh na tvprnu databáze pro dovážkovou službu. 
+Autoři: Valentýna Sadecká, Květoslav Reinhard
